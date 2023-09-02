@@ -42,7 +42,7 @@
 							<div class="row-table">
 							    <div class="col-cell header-logo">                                  
 							        <div class="logo-area">
-							            <a href="<?php home_url() ?>">
+							            <a href="<?php echo home_url()?>">
 							                <img class="normal-logo" src="<?php echo get_theme_mod('logoNormal'); ?>" alt="logo">  
 							                <img class="sticky-logo" src="<?php echo get_theme_mod('logoSticky'); ?>" alt="logo">
 							            </a>
