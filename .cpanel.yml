@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/netcevco/public_html/wp-content/themes/netcev/
+    - /bin/cp * $DEPLOYPATH
