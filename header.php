@@ -16,7 +16,7 @@
   }
   ?>
    <?php wp_head(); ?>
-   <link rel="icon" type="image/x-icon" href="<?php echo get_template_directory_uri()?>/assets/images/favicon.png"/>
+   
 </head>
 <body class="<?php body_class() ?> home-coral-color">
 		
