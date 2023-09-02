@@ -4,7 +4,7 @@
     <meta charset="<?php bloginfo( 'charset' ) ?>">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" type="image/x-icon" href="<?php echo get_template_directory_uri()?>/assets/images/favicon.png">
+    
 	<?php
   if ( ! function_exists( '_wp_render_title_tag' ) ) {
     function theme_slug_render_title() {
@@ -16,6 +16,7 @@
   }
   ?>
    <?php wp_head(); ?>
+   <link rel="icon" type="image/x-icon" href="<?php echo get_template_directory_uri()?>/assets/images/favicon.png"/>
 </head>
 <body class="<?php body_class() ?> home-coral-color">
 		
