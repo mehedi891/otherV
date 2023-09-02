@@ -244,12 +244,12 @@
 			        		<div class="pricing-wrap-widget">
 				        		<div class="pricing-table-middle">
 	                                <div class="pricing-table-header">
-	                                    <h3 class="table-title">Basic Plan</h3>
+	                                    <h3 class="table-title">Store Setup</h3>
 	                                    <div class="pricing-table-price">
 	                                        <div class="pricing-table-bags">
 	                                            <span class="pricing-currency">$</span>
-	                                            <span class="table-price-text">25</span>
-	                                            <span class="table-period">/ Month</span>
+	                                            <span class="table-price-text">70</span>
+	                                            <span class="table-period"></span>
 	                                        </div>
 	                                    </div>
 	                                </div>
@@ -258,15 +258,15 @@
 	                                </div>
 	                                <div class="pricing-table-body">
 	                                    <ul>
-											<li><i class="fa fa-check"></i><span>Floor cleaning</span></li>
-											<li><i class="fa fa-check"></i><span>Kitchen Cleaning</span></li>
-											<li><i class="fa fa-check"></i><span>Room cleaning</span></li>
-											<li><i class="fa fa-check"></i><span>Bathroom cleaning</span></li>
-											<li><i class="fa fa-check"></i><span>General Dusting</span></li>
+											<li><i class="fa fa-check"></i><span>Page setup(upto 5)</span></li>
+											<li><i class="fa fa-check"></i><span>2 features added</span></li>
+											<li><i class="fa fa-check"></i><span>Bug fixing (upto 3)</span></li>
+											<li><i class="fa fa-check"></i><span>Theme Customization</span></li>
+											<li><i class="fa fa-check"></i><span>Shipping setup</span></li>
 	                                    </ul>
 	                                </div>
 	                                <div class="btn-part mt-35 text-center">
-	                                    <a class="readon view price" href="contact.html">Get Started</a>
+	                                    <a class="readon view price" href="/contact-us">Contact Us</a>
 	                                </div>
 	                           </div>
 			        		</div>
@@ -275,12 +275,12 @@
 			        		<div class="pricing-wrap-widget">
 				        		<div class="pricing-table-middle">
 	                                <div class="pricing-table-header">
-	                                    <h3 class="table-title">Basic Plan</h3>
+	                                    <h3 class="table-title">Theme Customization Plan</h3>
 	                                    <div class="pricing-table-price">
 	                                        <div class="pricing-table-bags">
 	                                            <span class="pricing-currency">$</span>
-	                                            <span class="table-price-text">25</span>
-	                                            <span class="table-period">/ Month</span>
+	                                            <span class="table-price-text">120</span>
+	                                            <span class="table-period"></span>
 	                                        </div>
 	                                    </div>
 	                                </div>
@@ -289,15 +289,15 @@
 	                                </div>
 	                                <div class="pricing-table-body">
 	                                    <ul>
-											<li><i class="fa fa-check"></i><span>Floor cleaning</span></li>
-											<li><i class="fa fa-check"></i><span>Kitchen Cleaning</span></li>
-											<li><i class="fa fa-check"></i><span>Room cleaning</span></li>
-											<li><i class="fa fa-check"></i><span>Bathroom cleaning</span></li>
-											<li><i class="fa fa-check"></i><span>General Dusting</span></li>
+											<li><i class="fa fa-check"></i><span>CSS Fix</span></li>
+											<li><i class="fa fa-check"></i><span>Liquid Fix</span></li>
+											<li><i class="fa fa-check"></i><span>New Feature will be add</span></li>
+											<li><i class="fa fa-check"></i><span>Page CUstomization</span></li>
+											<li><i class="fa fa-check"></i><span>Bug Fixing</span></li>
 	                                    </ul>
 	                                </div>
 	                                <div class="btn-part mt-35 text-center">
-	                                    <a class="readon view price" href="contact.html">Get Started</a>
+									<a class="readon view price" href="/contact-us">Contact Us</a>
 	                                </div>
 	                           </div>
 			        		</div>
@@ -306,12 +306,12 @@
 			        		<div class="pricing-wrap-widget">
 				        		<div class="pricing-table-middle">
 	                                <div class="pricing-table-header">
-	                                    <h3 class="table-title">Basic Plan</h3>
+	                                    <h3 class="table-title">Advance Store Setup</h3>
 	                                    <div class="pricing-table-price">
 	                                        <div class="pricing-table-bags">
 	                                            <span class="pricing-currency">$</span>
-	                                            <span class="table-price-text">25</span>
-	                                            <span class="table-period">/ Month</span>
+	                                            <span class="table-price-text">300</span>
+	                                            <span class="table-period"></span>
 	                                        </div>
 	                                    </div>
 	                                </div>
@@ -320,15 +320,15 @@
 	                                </div>
 	                                <div class="pricing-table-body">
 	                                    <ul>
-											<li><i class="fa fa-check"></i><span>Floor cleaning</span></li>
-											<li><i class="fa fa-check"></i><span>Kitchen Cleaning</span></li>
-											<li><i class="fa fa-check"></i><span>Room cleaning</span></li>
-											<li><i class="fa fa-check"></i><span>Bathroom cleaning</span></li>
-											<li><i class="fa fa-check"></i><span>General Dusting</span></li>
+											<li><i class="fa fa-check"></i><span>All from Basic Store setup</span></li>
+											<li><i class="fa fa-check"></i><span>Product Page design</span></li>
+											<li><i class="fa fa-check"></i><span>Theme Issue fixed</span></li>
+											<li><i class="fa fa-check"></i><span>Metafield</span></li>
+											<li><i class="fa fa-check"></i><span>Many More..</span></li>
 	                                    </ul>
 	                                </div>
 	                                <div class="btn-part mt-35 text-center">
-	                                    <a class="readon view price" href="contact.html">Get Started</a>
+									<a class="readon view price" href="/contact-us">Contact Us</a>
 	                                </div>
 	                           </div>
 			        		</div>
@@ -352,37 +352,7 @@
 			                    </div>
 	                            <div class="contact-wrap">
 	                                <div id="form-messages"></div>
-	                                <form id="contact-form" method="post" action="https://devsdesign.net/products/html/clenia/mailer.php">
-	                                    <fieldset>
-	                                        <div class="row">
-	                                            <div class="col-lg-6 col-md-6 col-sm-6 mb-30">
-	                                                <input class="from-control" type="text" id="name" name="name" placeholder="Name" required="">
-	                                            </div> 
-	                                            <div class="col-lg-6 col-md-6 col-sm-6 mb-30">
-	                                                <input class="from-control" type="text" id="email" name="email" placeholder="E-Mail" required="">
-	                                            </div>   
-	                                            <div class="col-lg-6 col-md-6 col-sm-6 mb-30">
-	                                                <input class="from-control" type="text" id="phone" name="phone" placeholder="Phone Number" required="">
-	                                            </div>   
-	                                            <div class="col-lg-6 col-md-6 col-sm-6 mb-30">
-	                                                <input class="from-control" type="text" id="Website" name="subject" placeholder="Your Website" required="">
-	                                            </div>
-	                                      
-	                                            <div class="col-lg-12 mb-35">
-	                                                <textarea class="from-control" id="message" name="message" placeholder="Your message Here" required=""></textarea>
-	                                            </div>
-	                                        </div>
-	                                        <div class="btn-part">                                            
-	                                            <div class="form-group mb-0">
-	                                            	<p class="submit-btn submit-btn2">
-		                                                <span class="arrow-btn">
-		                                                	<input type="submit" value="Submit Now">
-		                                                </span>
-	                                            	</p>
-	                                            </div>
-	                                        </div> 
-	                                    </fieldset>
-	                                </form> 
+	                                <?php echo do_shortcode('[fluentform id="1"]')?>
 	                            </div>
 	                        </div>
 						</div>
