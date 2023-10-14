@@ -26,7 +26,7 @@
 		                                <li>
 		                                    <i class="fi fi-rr-map-marker-home"></i>
 		                                    <div class="desc">147,7 No Gate,<br>
-											Monipuri Para,Dhaka
+											Monipuri Para,Dhaka 
 											</div>
 		                                </li>
 		                                <li>
