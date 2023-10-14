@@ -34,7 +34,7 @@
 	  								</div>
 	  								<div class="address-content">
 	  									<span class="label">Visit Us:</span>
-	  									<span class="des"> New Jesrsy, 1201, USA</span>
+	  									<span class="des">Dhaka,Bangladesh</span>
 	  								</div>
 	  							</div>
 	  							<div class="address-item mb-30">
@@ -43,7 +43,7 @@
 	  								</div>
 	  								<div class="address-content">
 	  									<span class="label">Mail Us:</span>
-	  									<span class="des"> New Jesrsy, 1201, USA</span>
+	  									<span class="des">147,7 No Gate,Monipuri Para</span>
 	  								</div>
 	  							</div>
 	  							<div class="address-item">
@@ -52,7 +52,7 @@
 	  								</div>
 	  								<div class="address-content">
 	  									<span class="label">Phone:</span>
-	  									<span class="des">(+088)589-8745</span>
+	  									<span class="des">01521439111</span>
 	  								</div>
 	  							</div>
 			              	</div>

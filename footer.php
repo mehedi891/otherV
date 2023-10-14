@@ -25,20 +25,20 @@
 									<ul class="address-widget">
 		                                <li>
 		                                    <i class="fi fi-rr-map-marker-home"></i>
-		                                    <div class="desc">503 Old Buffalo Street<br>
-												#205 New York-3087
+		                                    <div class="desc">147,7 No Gate,<br>
+											Monipuri Para,Dhaka
 											</div>
 		                                </li>
 		                                <li>
 		                                    <i class="fi fi-rr-phone-call"></i>
 		                                    <div class="desc">
-		                                       <a href="tel:(+1)123-4567890">(+1) 123-456-7890</a>
+		                                       <a href="tel:01521439111">01521439111</a>
 		                                    </div>
 		                                </li>
 		                                <li>
 		                                    <i class="fi fi-rr-envelope-plus"></i>
 		                                    <div class="desc">
-		                                        <a href="mailto:infoname@gmail.com">infoname@gmail.com</a>
+		                                        <a href="mailto:infoname@gmail.com">hmdmehedi91@gmail.com</a>
 		                                    </div>
 		                                </li>
 	                                    <li>

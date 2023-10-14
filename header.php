@@ -16,7 +16,7 @@
   }
   ?>
    <?php wp_head(); ?>
-   
+   <link rel="icon" type="image/x-icon" href="<?php echo get_template_directory_uri()?>/assets/images/favicon.png"/>
 </head>
 <body class="<?php body_class() ?> home-coral-color">
 		
@@ -148,7 +148,7 @@
 							        				<i class="fi fi-rr-search"></i>
 							        			</a>
 							        		</li>
-							        		<li class="btn-quote"><a href="/contact-us">Get an Estimate</a></li>
+							        		<li class="btn-quote"><a href="/contact-us/">Get an Estimate</a></li>
 							        		<li class="nav-link">
 							        			<a id="nav-expander" class="nav-expander bar" href="#">
 							        				<span class="dot-hum"></span>
